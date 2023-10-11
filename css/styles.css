@@ -7,9 +7,10 @@ body {
   background: linear-gradient(180deg, rgba(255, 255, 255, 0) 86.13%, #ffffff 100%),
     url(../img/2.jpg);
   background-size:contain;
-  background-repeat:no-repeat;
+  background-repeat:repeat-y;
   background-size:100vh;
   background-color:rgba(71, 70, 72, 0.715);
+  
 }
 
 ul {
