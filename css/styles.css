@@ -4,11 +4,12 @@ body {
   font-family: 'Roboto', sans-serif;
   
   
-  background-image:url(/img/2.jpg);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 86.13%, #ffffff 100%),
+    url(../img/2.jpg);
   background-size:contain;
   background-repeat:no-repeat;
   background-size:100vh;
-  background-color:#655f5f;
+  background-color:rgba(71, 70, 72, 0.715);
 }
 
 ul {
